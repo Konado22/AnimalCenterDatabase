@@ -1,5 +1,5 @@
 # AnimalCenterDatabase
-[](AnimalCenterDatabase/main/dashboard.png)
+<img width="302" alt="dashboard" src="https://github.com/Konado22/AnimalCenterDatabase/assets/87197883/c2dce6ce-044b-4e7b-a646-e4b10fa6d395">
 
 ## Description
 
