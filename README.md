@@ -32,3 +32,9 @@ We are also provided piechart and geolocation widgets to vizualise specific anim
 ![](sort.png)
 
 Each column is also sortable to allow more flexibility to the user
+
+## Contributors
+myself and starter code provided by cs-340
+
+## License 
+MIT
