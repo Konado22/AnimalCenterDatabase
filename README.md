@@ -3,7 +3,7 @@
 
 ## Description
 
-Utilizing a MongoDB database and python, with a dash framework provide querries and information regarding the Austin Animal Center. We are provided a starter code template as well as intialized a database with a user and methodology to perform basic crud operations to the imported data. We used pymongo built-in methodology to construct our methods for querries. Dash framework was integrated to provide a front-end layout for the information as well as useful widgets to help display information regarding querries and selection. The lists returned are also sortable allowing for a more friendly user experience
+Utilizing a MongoDB database and python, with a dash framework provide querries and information regarding the Austin Animal Center. We are provided a starter code template as well as intialized a database with a user and methodology to perform basic crud operations to the imported data. We used pymongo built-in methodology to construct our methods for querries. Dash framework was integrated to provide a front-end layout for the information as well as useful widgets to help display information regarding querries and selection. The lists returned are also sortable allowing for a more friendly user experience. This project was a great combination of implementing a small full stack web application including an interactive front-end. It is important that the account is verified prior to accessing database information as well, and querry to read upon initilization of the applicaiton will fail if authentication isn't passed. In this example it is hardcoded but is important to protect this information and encypt in a professional setting to protect the database. 
 
 ## Installation
 
