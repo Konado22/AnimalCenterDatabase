@@ -1,5 +1,5 @@
 # AnimalCenterDatabase
-[](dashboard.png)
+[](/dashboard.png)
 
 ## Description
 
